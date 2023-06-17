@@ -5,7 +5,8 @@ A Machine Learning Web App that can predict the flight prices. The app is create
 
 ## A glimpse of the web app:
 
-https://user-images.githubusercontent.com/117584271/234536483-0c67686a-7e2d-4524-b552-120f76e4fd99.mp4
+https://github.com/PoojaSureka/Flight_Fare_prediction/assets/117584271/8959cd3b-3a91-4446-9095-995726195d33
+
 
 ## Directory Tree
 --> Here are some details of the subdirectories and files that the repository contains. 
